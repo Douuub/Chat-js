@@ -14,8 +14,6 @@ chat-app/
 │   ├── chat.js
 │   ├── index.html
 │   ├── styles.css
-├── img/
-│   ├── logo.ico
 ├── server/
 │   ├── app.js
 │   ├── connectionTracker.js
