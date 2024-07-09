@@ -22,7 +22,7 @@ chat-app/
 │   ├── models/
 │   │   ├── User.js
 │   │   └── Message.js
-├── routes/
+│   ├── routes/
 │   │   └── message.js
 ├── node_modules/
 ├── package.json
