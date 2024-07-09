@@ -24,7 +24,7 @@ chat-app/
 │   │   └── Message.js
 │   ├── routes/
 │   │   └── message.js
-├── node_modules/
+│   ├── models/
 ├── package.json
 └── package-lock.json
 ```
