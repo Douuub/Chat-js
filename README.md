@@ -63,5 +63,5 @@ Start the project
 
 **Client:** JavaScript, Html, CSS
 
-**Server:** Node, JavaScript
+**Server:** Node.js, JavaScript
 
